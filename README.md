@@ -23,6 +23,6 @@ app/web
 # [Contact Telegram](https://t.me/Ss9980sS)
 # [联系需翻墙](https://t.me/Ss9980sS)
 * 联系扣q：710505229
-* 联系V信：
+* 联系V信：扫码复制添加
 
 <img src="eg.png">
