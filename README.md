@@ -1,4 +1,4 @@
-# 抖音-X-Ladon-X-Argus-X-Gorgon-X-Khronos-X-Medusa-X-Helios
+# 抖音-算法-API-X-Ladon-X-Argus-X-Gorgon-X-Khronos-X-Medusa-X-Helios
 Tiktok/douY-算法 | Tiktok/douY-API 
 
 
